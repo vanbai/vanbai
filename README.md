@@ -7,6 +7,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-informational?style=for-the-badge&logo=Postman&logoColor=FFF)
 ![Git](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=Git&logoColor=FFF)
 ![JMeter](https://img.shields.io/badge/-JMeter-informational?style=for-the-badge&logo=apachejmeter&logoColor=FFF)
+![TestRail](https://img.shields.io/badge/-TestRail-informational?style=for-the-badge&logo=testrail&logoColor=FFF)
 ![Fiddler](https://img.shields.io/badge/-Fiddler-informational?style=for-the-badge&logo=Fiddler&logoColor=FFF)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-informational?style=for-the-badge&logo=Charles&logoColor=FFF)
 ![SQL](https://img.shields.io/badge/-SQL-informational?style=for-the-badge&logo=mysql&logoColor=FFF)
