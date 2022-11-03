@@ -1,8 +1,8 @@
 # Ivan Bayrachnyi
 ## Digital-beginner
 ### My CV
-[For russian version click here!](https://drive.google.com/file/d/1U-yYk6pa0kKJGw8as2L4M1M20qIaq_Q7/view?usp=sharing)
-[For english version click here!](https://drive.google.com/file/d/1FKff2fyhH-4gNOSIqxc5BpGWahwg4FYf/view?usp=share_link)
+* [For russian version click here!](https://drive.google.com/file/d/1U-yYk6pa0kKJGw8as2L4M1M20qIaq_Q7/view?usp=sharing)
+* [For english version click here!](https://drive.google.com/file/d/1FKff2fyhH-4gNOSIqxc5BpGWahwg4FYf/view?usp=share_link)
 ### My QA portfolio
 [Click here!](https://github.com/vanbai/qa-portfolio)
 ### Languages and tools
