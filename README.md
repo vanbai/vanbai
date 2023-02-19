@@ -1,7 +1,7 @@
 # Ivan Bayrachnyi
 ## QA engineer
 ### My CV
-[rus](https://drive.google.com/file/d/1U-yYk6pa0kKJGw8as2L4M1M20qIaq_Q7/view?usp=sharing) | [eng](https://drive.google.com/file/d/1FKff2fyhH-4gNOSIqxc5BpGWahwg4FYf/view?usp=share_link)
+* [rus](https://drive.google.com/file/d/1U-yYk6pa0kKJGw8as2L4M1M20qIaq_Q7/view?usp=sharing) | [eng](https://drive.google.com/file/d/1FKff2fyhH-4gNOSIqxc5BpGWahwg4FYf/view?usp=share_link)
 ### My QA portfolio
 * Мои сертификаты / My certificates:
 [rus](https://drive.google.com/file/d/1-ETJuWpJfENUDZuQEYj4uvExP8txEXE-/view?usp=share_link) | [eng](https://drive.google.com/file/d/1pQ0K9bM7rJD4f1IQE_gVt6aci6YxzK8r/view?usp=share_link)
